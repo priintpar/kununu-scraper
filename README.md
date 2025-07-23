@@ -16,7 +16,7 @@ A tool to scrape company reviews from kununu.com with the [Scrapy framework](htt
             README.md
             scrapy.cfg
             __init__.p
-            kununu_project/
+            kununu/
                     items.py
                     middlewares.py
                     pipelines.py
